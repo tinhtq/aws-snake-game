@@ -1,0 +1,1 @@
+# Snake images package initialization
