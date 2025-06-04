@@ -99,4 +99,4 @@ This game was created as part of the Amazon Q CLI challenge. The AWS theming was
 
 ## Credits
 
-Created by [Your Name] using Python and Pygame for the Amazon Q CLI challenge.
+Created by Tinh Truong using Python and Pygame for the Amazon Q CLI challenge.
