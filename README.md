@@ -100,3 +100,8 @@ This game was created as part of the Amazon Q CLI challenge. The AWS theming was
 ## Credits
 
 Created by Tinh Truong using Python and Pygame for the Amazon Q CLI challenge.
+
+
+## Article
+
+[Medium Article](https://medium.com/@tinhtq97/building-an-educational-aws-snake-game-with-amazon-q-cli-a3d9f99ba050)
